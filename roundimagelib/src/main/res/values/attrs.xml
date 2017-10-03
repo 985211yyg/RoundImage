@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundImage">
+        <attr name="roundAngle" format="dimension" />
+        <attr name="Type" format="enum">
+            <enum name="round" value="0" />
+            <enum name="circle" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
